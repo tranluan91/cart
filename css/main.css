@@ -227,3 +227,9 @@ div.search-form
 {
 	background: #80CFFF;
 }
+
+#table th,td
+{
+	text-align: center;
+	border: 1px solid green
+}
