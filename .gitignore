@@ -1,0 +1,6 @@
+*.db
+*.thumb
+assets/
+protected/runtime/
+!.gitignore
+.idea/
